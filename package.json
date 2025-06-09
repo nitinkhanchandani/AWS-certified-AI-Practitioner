@@ -1,0 +1,20 @@
+{
+  "name": "aws-certified-ai-practitioner",
+  "version": "1.0.0",
+  "description": "Study guide for AWS Certified AI Practitioner (AIF-C01)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "Certified",
+    "AI",
+    "Practitioner",
+    "AIF-C01",
+    "AWS",
+    "Certification"
+  ],
+  "author": "Nitin Khanchandani",
+  "license": "ISC"
+}
