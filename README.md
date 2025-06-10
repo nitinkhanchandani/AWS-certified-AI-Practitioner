@@ -12,3 +12,5 @@ Start with understanding the structure for the test. Here is the summary of the 
 * 🔗[Official Exam Guide by AWS](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
 
 * 📖[Summary of Exam guide - Quick Reference](./exam-guide.md)
+
+* [AWS Machine Learning Services](./aws-ml-services.md)
