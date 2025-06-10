@@ -14,3 +14,4 @@ Start with understanding the structure for the test. Here is the summary of the 
 * 📖[Summary of Exam guide - Quick Reference](./exam-guide.md)
 
 * [AWS Machine Learning Services](./aws-ml-services.md)
+* [AWS Management & Governance](./aws-management-governance.md)
