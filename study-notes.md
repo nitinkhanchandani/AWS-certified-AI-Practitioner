@@ -58,15 +58,18 @@ This is a frequent point of confusion and a likely exam topic.
 
 ---
 
-### 3. Scenario-Based Practice Questions
+### 3. Practice Questions
 
-These questions mimic the style of the exam, forcing you to apply concepts to situations.
 
 **Question 1:**
 A data science team has built a model to predict customer churn. The model shows a 99% accuracy on the data it was trained on, but when tested against new customer data from the last month, the accuracy drops to 60%. What is the MOST likely cause of this issue?
+
 A) Underfitting
+
 B) Lack of sufficient data
+
 C) Overfitting
+
 D) Poor data preprocessing
 
 <details>
@@ -74,15 +77,21 @@ D) Poor data preprocessing
 
 **✅ Correct Answer: C) Overfitting.**
 
+
 **Explanation:** This is the classic definition of overfitting. The model has learned the training data so perfectly that it cannot generalize to new, unseen data. High performance on training data and low performance on test/new data is the key symptom.
 </details>
 
 **Question 2:**
 A retail company wants to implement a system that automatically suggests products to users based on their browsing history and past purchases. According to the provided text, which primary business benefit of machine learning does this directly address?
+
 A) Proactive resource management
+
 B) Automation of routine tasks
+
 C) Enhanced decision making
+
 D) Improved customer experiences
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
@@ -94,9 +103,13 @@ D) Improved customer experiences
 
 **Question 3:**
 A manager asks a data scientist to explain the difference between AI and ML. Which statement is the MOST accurate explanation?
+
 A) AI and ML are interchangeable terms for the same technology.
+
 B) AI is a specific technique within the broader field of Machine Learning.
+
 C) Machine Learning is a method used to achieve AI by teaching computers to learn from data.
+
 D) AI is used for processing text, while ML is used for processing numbers.
 
 <details>
@@ -113,9 +126,13 @@ A company wants to build a model that predicts product demand based on historica
 Which type of machine learning model best suits this requirement?
 
 A. Deterministic model
+
 B. Probabilistic model
+
 C. Rule-based system
+
 D. Supervised clustering model
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
@@ -129,9 +146,13 @@ D. Supervised clustering model
 Which of the following best describes the purpose of the validation dataset during model training?
 
 A. To fine-tune hyperparameters and assess generalization
+
 B. To test final model performance before deployment
+
 C. To optimize the model using backpropagation
+
 D. To generate synthetic data for training
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
@@ -146,9 +167,13 @@ D. To generate synthetic data for training
 What is the primary goal of the data preprocessing step in the machine learning lifecycle?
 
 A. Increase model complexity
+
 B. Add noise to the dataset for robustness
+
 C. Prepare and clean data for training
+
 D. Convert numeric data to images for deep learning
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
@@ -164,9 +189,13 @@ A data science team at a retail company notices that their machine learning mode
 Which of the following is the most effective strategy to reduce overfitting and improve the model's ability to generalize?
 
 A. Add more training data and use regularization techniques
+
 B. Decrease the number of input features to make the model simpler
+
 C. Train the model for more epochs to improve accuracy
+
 D. Remove the validation set to avoid data leakage
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
@@ -192,9 +221,13 @@ To solve these operational challenges, the company is considering implementing M
 Which of the following describes a primary benefit of adopting MLOps?
 
 A. It helps manually tune model architecture for deep learning applications
+
 B. It reduces the accuracy of complex models in favor of explainability
+
 C. It automates the end-to-end lifecycle of ML models, including deployment and monitoring
+
 D. It ensures all models use neural networks instead of classical ML techniques
+
 
 <details>
 <summary>Click for Answer & Explanation</summary>
